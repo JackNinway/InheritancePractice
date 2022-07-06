@@ -7,7 +7,6 @@ public abstract class Employee {
     private String name;
     private LocalDate dateHired;
     public static final double BASE_SALARY = 25_000;
-
     public Employee(String name,  LocalDate dateHired) {
         this.name = name;
         this.dateHired = dateHired;

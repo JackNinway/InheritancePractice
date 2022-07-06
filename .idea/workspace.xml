@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6941db27-0691-48bd-8f46-f28d2f4d1d34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SalesPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SystemDeveloper.java" afterDir="false" />
-    </list>
+    <list default="true" id="6941db27-0691-48bd-8f46-f28d2f4d1d34" name="Changes" comment="Inheritance Practice final1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +66,19 @@
       <option name="presentableId" value="Default" />
       <updated>1657024484254</updated>
     </task>
+    <task id="LOCAL−00001" summary="Inheritance Practice final">
+      <created>1657116683420</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1657116683420</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Inheritance Practice final1">
+      <created>1657116756486</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1657116756486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,6 +91,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inheritance Practice final" />
+    <MESSAGE value="Inheritance Practice final1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Practice final1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

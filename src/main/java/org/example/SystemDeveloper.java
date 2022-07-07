@@ -14,6 +14,7 @@ public class SystemDeveloper extends Employee{
         super(name, hiredDate);
         this.languages = languages;
         this.certificates = certificates;
+        calculateSalary();
     }
 
     @Override

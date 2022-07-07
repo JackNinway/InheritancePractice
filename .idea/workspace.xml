@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6941db27-0691-48bd-8f46-f28d2f4d1d34" name="Changes" comment="Inheritance Practice final1" />
+    <list default="true" id="6941db27-0691-48bd-8f46-f28d2f4d1d34" name="Changes" comment="Inheritance Practice final1">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SalesPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SalesPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SystemDeveloper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SystemDeveloper.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +106,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/SalesPerson.java</url>
-          <line>24</line>
+          <line>25</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>

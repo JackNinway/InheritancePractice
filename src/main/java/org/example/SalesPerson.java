@@ -14,6 +14,7 @@ public class SalesPerson extends Employee {
         super(name, dateHired);
         this.clients = clients;
         this.aquiredClients = aquiredClients;
+        calculateSalary();
     }
 
     @Override
